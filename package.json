@@ -1,0 +1,15 @@
+{
+  "name": "media-saver",
+  "version": "1.0.0",
+  "description": "for saving media watched in a local database",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jayson sanon",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^33.2.0"
+  }
+}
